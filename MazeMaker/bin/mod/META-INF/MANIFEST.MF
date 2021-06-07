@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: mod.Main
+Class-Path: annotations-java5-19.0.0.jar
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LAB1Maze.jnlp">
+  <information>
+    <title>MazeMaker</title>
+    <vendor>Unknown</vendor>
+    <description>MazeMaker</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LAB1Maze.jar" size="27842" download="eager" />
+    <jar href="MazeMaker (2).jar" size="25581" download="eager" />
+    <jar href="MazeMaker (3).jar" size="25654" download="eager" />
+    <jar href="MazeMaker (4).jar" size="26062" download="eager" />
+    <jar href="MazeMaker (5).jar" size="27838" download="eager" />
+    <jar href="MazeMaker.jar" size="25223" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="mod.Main"  name="MazeMaker" />
+  <update check="background"/>
+</jnlp>

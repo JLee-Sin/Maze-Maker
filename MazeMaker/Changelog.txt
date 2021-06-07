@@ -1,0 +1,82 @@
+11/6/2020
+Time Start: 10:43PM
+Time End: 11:53PM
+UML updated
+SRC code finished besides difficulty input
+Researched on
+    -random # generators and java
+    -"System.exit(0)" method
+QOL updates made
+    -changing of string map after sword is collected
+    -rules available at anytime
+    -exit available at anytime
+    -Custom message displayed based on victory type
+    -Error message for invalid input added
+    -Changelog made for graders as well as my sanity
+Planned Updates
+    -Trap door/Secret tunnel with random exit system//Tunnels
+    -Random Chance to win System//Wizards
+    -Difficulty input (for src code)
+    -Coin System
+    -An actual GUI
+***********************************************************************************************************************
+11/7/2020
+Time Start: 1:39PM
+Time End: 3:02PM
+UML updated
+Difficulty input added
+Researched on
+    -Javafx
+    -random # generator implementation with arrays
+Planned Updates
+    -Trap door/Secret tunnel with random exit system//tunnels
+    -Random Chance to win System//Wizards
+    -Difficulty input by string at any time
+    -Coin System
+    -An actual GUI
+***********************************************************************************************************************
+11/7/2020
+Time Start: 4:30PM
+Time End: 9:03PM
+UML updated
+Trap door/Secret tunnel with random exit system//tunnels added
+Difficulty input by string at any time added
+Coin System added
+Researched on
+    -Out of bounds exceptions in random number indices of an array
+Planned Updates
+    -An actual GUI
+    -Random Chance to win System//Wizards
+    -Shopkeeping System for use with coins
+***********************************************************************************************************************
+11/8/2020
+Time Start: 2:35AM
+Time End: 4:01AM
+UML updated
+Random Chance to win System//Wizards added
+Cleaning of Tunnel/Wizard generation
+Planned Updates
+    -An actual GUI
+    -Shopkeeping System for use with coins
+Notes
+    -Randomly generated events + debugging = BAD
+***********************************************************************************************************************
+11/8/2020
+Time Start: 4:22PM
+Time End: 7:19PM
+UML updated
+Shop System added
+Shop system cleaned
+Debugging
+Researched on
+    -making JOP fancy instead of using swing/javafx
+Planned Updates
+    -An actual GUI
+***********************************************************************************************************************
+11/9/2020
+Time Start: 1:11AM
+Time End:
+QOL updates made
+    -Exit now available on level select
+    -Finishing level now returns user to level select
+
